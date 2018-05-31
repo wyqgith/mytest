@@ -6,5 +6,6 @@ public class test {
     private int kk1;
     private int a;
     private int kk2;
+    private int kk3;
 
 }
