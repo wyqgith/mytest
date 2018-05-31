@@ -4,4 +4,7 @@
 public class test {
     private int kk;
     private int kk1;
+    private int a;
+
+
 }
