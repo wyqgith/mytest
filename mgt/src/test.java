@@ -8,5 +8,6 @@ public class test {
     private int kk2;
     private int kk3;
     private int kk5;
+    private int kk6;
 
 }
